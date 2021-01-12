@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/photography/static/css/main.a67a4f8d.chunk.css",
+    "main.js": "/photography/static/js/main.ddad5888.chunk.js",
+    "main.js.map": "/photography/static/js/main.ddad5888.chunk.js.map",
+    "runtime-main.js": "/photography/static/js/runtime-main.0e368a29.js",
+    "runtime-main.js.map": "/photography/static/js/runtime-main.0e368a29.js.map",
+    "static/js/2.64acb1db.chunk.js": "/photography/static/js/2.64acb1db.chunk.js",
+    "static/js/2.64acb1db.chunk.js.map": "/photography/static/js/2.64acb1db.chunk.js.map",
+    "index.html": "/photography/index.html",
+    "static/css/main.a67a4f8d.chunk.css.map": "/photography/static/css/main.a67a4f8d.chunk.css.map",
+    "static/js/2.64acb1db.chunk.js.LICENSE.txt": "/photography/static/js/2.64acb1db.chunk.js.LICENSE.txt",
+    "static/media/autumn1.b6a3ffda.a4c09f97.jpg": "/photography/static/media/autumn1.b6a3ffda.a4c09f97.jpg",
+    "static/media/autumn2.c9972518.1000179f.jpg": "/photography/static/media/autumn2.c9972518.1000179f.jpg",
+    "static/media/autumn4.f37d4e6d.38a884bd.jpg": "/photography/static/media/autumn4.f37d4e6d.38a884bd.jpg",
+    "static/media/mountain2.fb4124c1.e912158b.jpg": "/photography/static/media/mountain2.fb4124c1.e912158b.jpg",
+    "static/media/mountain3.00cc2fa3.1d80e32b.jpg": "/photography/static/media/mountain3.00cc2fa3.1d80e32b.jpg",
+    "static/media/mountain4.bbcd5e47.904a4aa6.jpg": "/photography/static/media/mountain4.bbcd5e47.904a4aa6.jpg",
+    "static/media/winter2.fdfb2a51.25fae7ec.jpg": "/photography/static/media/winter2.fdfb2a51.25fae7ec.jpg",
+    "static/media/winter3.7b576d21.e9959e05.jpg": "/photography/static/media/winter3.7b576d21.e9959e05.jpg",
+    "static/media/winter4.0b48b63f.5845cc62.jpg": "/photography/static/media/winter4.0b48b63f.5845cc62.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e368a29.js",
+    "static/js/2.64acb1db.chunk.js",
+    "static/css/main.a67a4f8d.chunk.css",
+    "static/js/main.ddad5888.chunk.js"
+  ]
+}
