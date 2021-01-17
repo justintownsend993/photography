@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/photography/static/css/main.a67a4f8d.chunk.css",
-    "main.js": "/photography/static/js/main.7c15c947.chunk.js",
-    "main.js.map": "/photography/static/js/main.7c15c947.chunk.js.map",
+    "main.css": "/photography/static/css/main.56643244.chunk.css",
+    "main.js": "/photography/static/js/main.50085838.chunk.js",
+    "main.js.map": "/photography/static/js/main.50085838.chunk.js.map",
     "runtime-main.js": "/photography/static/js/runtime-main.0e368a29.js",
     "runtime-main.js.map": "/photography/static/js/runtime-main.0e368a29.js.map",
     "static/js/2.b482e60e.chunk.js": "/photography/static/js/2.b482e60e.chunk.js",
     "static/js/2.b482e60e.chunk.js.map": "/photography/static/js/2.b482e60e.chunk.js.map",
     "index.html": "/photography/index.html",
-    "static/css/main.a67a4f8d.chunk.css.map": "/photography/static/css/main.a67a4f8d.chunk.css.map",
+    "static/css/main.56643244.chunk.css.map": "/photography/static/css/main.56643244.chunk.css.map",
     "static/js/2.b482e60e.chunk.js.LICENSE.txt": "/photography/static/js/2.b482e60e.chunk.js.LICENSE.txt",
     "static/media/autumn1.b6a3ffda.a4c09f97.jpg": "/photography/static/media/autumn1.b6a3ffda.a4c09f97.jpg",
     "static/media/autumn2.c9972518.1000179f.jpg": "/photography/static/media/autumn2.c9972518.1000179f.jpg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.0e368a29.js",
     "static/js/2.b482e60e.chunk.js",
-    "static/css/main.a67a4f8d.chunk.css",
-    "static/js/main.7c15c947.chunk.js"
+    "static/css/main.56643244.chunk.css",
+    "static/js/main.50085838.chunk.js"
   ]
 }
