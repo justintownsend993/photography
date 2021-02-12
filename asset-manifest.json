@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/photography/static/css/main.56643244.chunk.css",
-    "main.js": "/photography/static/js/main.50085838.chunk.js",
-    "main.js.map": "/photography/static/js/main.50085838.chunk.js.map",
+    "main.js": "/photography/static/js/main.a728d7ae.chunk.js",
+    "main.js.map": "/photography/static/js/main.a728d7ae.chunk.js.map",
     "runtime-main.js": "/photography/static/js/runtime-main.0e368a29.js",
     "runtime-main.js.map": "/photography/static/js/runtime-main.0e368a29.js.map",
-    "static/js/2.b482e60e.chunk.js": "/photography/static/js/2.b482e60e.chunk.js",
-    "static/js/2.b482e60e.chunk.js.map": "/photography/static/js/2.b482e60e.chunk.js.map",
+    "static/js/2.c7be83ab.chunk.js": "/photography/static/js/2.c7be83ab.chunk.js",
+    "static/js/2.c7be83ab.chunk.js.map": "/photography/static/js/2.c7be83ab.chunk.js.map",
     "index.html": "/photography/index.html",
     "static/css/main.56643244.chunk.css.map": "/photography/static/css/main.56643244.chunk.css.map",
-    "static/js/2.b482e60e.chunk.js.LICENSE.txt": "/photography/static/js/2.b482e60e.chunk.js.LICENSE.txt",
+    "static/js/2.c7be83ab.chunk.js.LICENSE.txt": "/photography/static/js/2.c7be83ab.chunk.js.LICENSE.txt",
     "static/media/autumn1.b6a3ffda.a4c09f97.jpg": "/photography/static/media/autumn1.b6a3ffda.a4c09f97.jpg",
     "static/media/autumn2.c9972518.1000179f.jpg": "/photography/static/media/autumn2.c9972518.1000179f.jpg",
     "static/media/autumn4.f37d4e6d.38a884bd.jpg": "/photography/static/media/autumn4.f37d4e6d.38a884bd.jpg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0e368a29.js",
-    "static/js/2.b482e60e.chunk.js",
+    "static/js/2.c7be83ab.chunk.js",
     "static/css/main.56643244.chunk.css",
-    "static/js/main.50085838.chunk.js"
+    "static/js/main.a728d7ae.chunk.js"
   ]
 }
